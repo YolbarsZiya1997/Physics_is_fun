@@ -1,7 +1,12 @@
 {
     "cSpell.words": [
+        "figsize",
         "funfun",
         "lalaland",
-        "linspace"
+        "linspace",
+        "matplotlib",
+        "xlabel",
+        "xlim",
+        "ylim"
     ]
 }
